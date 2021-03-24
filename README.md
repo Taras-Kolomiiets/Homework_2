@@ -1,2 +1,2 @@
-# Homework_2
-Kolomiiets Taras_ДЗ 2
+# Homework_1
+Taras-Kolomiiets_ДЗ 1
